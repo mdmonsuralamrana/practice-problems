@@ -20,7 +20,7 @@ else:
         factorial = factorial*i
         print("The factorial of number ", number, "is", factorial)
 
-# output [The factorial of number  9 is 362880]
+##output [The factorial of number  9 is 362880]
 
 
 # read 3 numbers from keyboard and print the biggest number 
